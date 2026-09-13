@@ -61,7 +61,6 @@
 **Backend & API**
 
 ![Gin](assets/badges/gin.svg)
-![Huma](assets/badges/huma.svg)
 ![OpenAPI](assets/badges/openapi.svg)
 
 **Cloud Native & Networking**
@@ -72,11 +71,10 @@
 ![Cilium](assets/badges/cilium.svg)
 ![Helm](assets/badges/helm.svg)
 
-**Sandbox & Realtime**
+**Sandbox**
 
 ![OpenSandbox](assets/badges/opensandbox.svg)
 ![gVisor](assets/badges/gvisor.svg)
-![LiveKit](assets/badges/livekit.svg)
 
 **Automation & GitOps**
 
