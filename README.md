@@ -3,8 +3,8 @@
 
   <p><strong>Building reliable services, from runtime to infrastructure.</strong></p>
 
-  <a href="https://wenmou.site/"><img src="https://img.shields.io/badge/Blog-wenmou.site-245B78?style=flat-square" alt="Blog: wenmou.site" /></a>
-  <a href="mailto:wenmou.me@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-1F6FEB?style=flat-square" alt="Email: wenmou.me@gmail.com" /></a>
+  <a href="https://wenmou.site/"><img src="assets/badges/blog-wenmou-site.svg" alt="Blog: wenmou.site" /></a>
+  <a href="mailto:wenmou.me@gmail.com"><img src="assets/badges/email-let-s-talk.svg" alt="Email: wenmou.me@gmail.com" /></a>
 </div>
 
 ### 👋 About Me
@@ -46,33 +46,39 @@
 
 ### 🛠 Tech Stack
 
-**Languages**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-262626?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**Languages**
 
-**OS**  
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Go](assets/badges/go.svg)
+![Rust](assets/badges/rust.svg)
+![Python](assets/badges/python.svg)
+![Bash](assets/badges/bash.svg)
 
-**Cloud Native & Automation**  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+**OS**
 
-**CI/CD & GitOps**  
-![Concourse](https://img.shields.io/badge/Concourse-3398DC?style=flat-square&logo=concourse&logoColor=white)
-![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Debian](assets/badges/debian.svg)
+![Arch Linux](assets/badges/arch-linux.svg)
 
-**Data & Storage**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Longhorn](https://img.shields.io/badge/Longhorn-5B69BC?style=flat-square)
+**Cloud Native & Automation**
 
-**Observability**  
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+![Kubernetes](assets/badges/kubernetes.svg)
+![Docker](assets/badges/docker.svg)
+![Ansible](assets/badges/ansible.svg)
+
+**CI/CD & GitOps**
+
+![Concourse](assets/badges/concourse.svg)
+![Harbor](assets/badges/harbor.svg)
+![Argo CD](assets/badges/argo-cd.svg)
+
+**Data & Storage**
+
+![PostgreSQL](assets/badges/postgresql.svg)
+![Redis](assets/badges/redis.svg)
+![Longhorn](assets/badges/longhorn.svg)
+
+**Observability**
+
+![OpenTelemetry](assets/badges/opentelemetry.svg)
 
 ### 📄 Research & Side Projects
 
