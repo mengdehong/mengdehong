@@ -9,11 +9,9 @@
 
 ### 👋 About Me
 
-你好，我是 **wenmou / 孟德红**，浙江工业大学计算机硕士，2027 届。目前在拓数派担任基础架构开发实习生，关注 **Go 后端、Rust 开发、Agent Runtime 与云原生平台**。
+你好，我是 **wenmou**。关注 **Go 后端、Rust 开发、Agent Runtime 与云原生平台**。
 
 我喜欢把服务研发和基础设施实践连起来：从沙箱生命周期、并发执行与故障恢复，到 Kubernetes、GitOps 交付和可观测性；也会把实际使用中发现的问题修复贡献到开源上游。
-
-*CS master's student at ZJUT, building Go services and cloud-native infrastructure, exploring Rust, and contributing fixes upstream.*
 
 ### ⚙️ Engineering Focus
 
@@ -26,7 +24,7 @@
 
 ### 🤝 Open Source
 
-**[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) · 使用者与贡献者**
+**[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) · Contributor**
 
 从业务接入中的问题出发，补充复现、实现修复，并完成兼容性与 Kubernetes 集群验证。部分已合并贡献：
 
