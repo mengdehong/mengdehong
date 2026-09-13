@@ -50,20 +50,39 @@
 ![Rust](assets/badges/rust.svg)
 ![Python](assets/badges/python.svg)
 ![Bash](assets/badges/bash.svg)
+![TypeScript](assets/badges/typescript.svg)
 
 **OS**
 
 ![Debian](assets/badges/debian.svg)
 ![Arch Linux](assets/badges/arch-linux.svg)
+![Ubuntu](assets/badges/ubuntu.svg)
 
-**Cloud Native & Automation**
+**Backend & API**
+
+![Gin](assets/badges/gin.svg)
+![Huma](assets/badges/huma.svg)
+![OpenAPI](assets/badges/openapi.svg)
+
+**Cloud Native & Networking**
 
 ![Kubernetes](assets/badges/kubernetes.svg)
 ![Docker](assets/badges/docker.svg)
+![containerd](assets/badges/containerd.svg)
+![Cilium](assets/badges/cilium.svg)
+![Helm](assets/badges/helm.svg)
+
+**Sandbox & Realtime**
+
+![OpenSandbox](assets/badges/opensandbox.svg)
+![gVisor](assets/badges/gvisor.svg)
+![LiveKit](assets/badges/livekit.svg)
+
+**Automation & GitOps**
+
 ![Ansible](assets/badges/ansible.svg)
-
-**CI/CD & GitOps**
-
+![Kubespray](assets/badges/kubespray.svg)
+![Kustomize](assets/badges/kustomize.svg)
 ![Concourse](assets/badges/concourse.svg)
 ![Harbor](assets/badges/harbor.svg)
 ![Argo CD](assets/badges/argo-cd.svg)
@@ -72,11 +91,33 @@
 
 ![PostgreSQL](assets/badges/postgresql.svg)
 ![Redis](assets/badges/redis.svg)
+![CloudNativePG](assets/badges/cloudnativepg.svg)
 ![Longhorn](assets/badges/longhorn.svg)
+![RustFS](assets/badges/rustfs.svg)
 
 **Observability**
 
 ![OpenTelemetry](assets/badges/opentelemetry.svg)
+![Prometheus](assets/badges/prometheus.svg)
+![Grafana](assets/badges/grafana.svg)
+![Loki](assets/badges/loki.svg)
+![Tempo](assets/badges/tempo.svg)
+![Alloy](assets/badges/alloy.svg)
+![Alertmanager](assets/badges/alertmanager.svg)
+
+**Web**
+
+![Next.js](assets/badges/next-js.svg)
+![React](assets/badges/react.svg)
+![TanStack Query](assets/badges/tanstack-query.svg)
+![Tailwind CSS](assets/badges/tailwind-css.svg)
+
+**Testing & Performance**
+
+![k6](assets/badges/k6.svg)
+![Playwright](assets/badges/playwright.svg)
+![Vitest](assets/badges/vitest.svg)
+![pytest](assets/badges/pytest.svg)
 
 ### 📄 Research & Side Projects
 
