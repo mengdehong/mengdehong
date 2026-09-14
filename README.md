@@ -88,11 +88,3 @@
 ![Vitest](assets/badges/vitest.svg)
 ![pytest](assets/badges/pytest.svg)
 
-### 📄 Research & Side Projects
-
-- **ICASSP 2026 第一作者**：隐私保护感知哈希与零知识相似度验证，基于 Rust 实现。[Paper](https://doi.org/10.1109/ICASSP55912.2026.11461525) · [Code](https://github.com/mengdehong/zkph)
-- **[AnimeShelf](https://github.com/mengdehong/AnimeShelf)**：使用 Flutter 开发的本地优先番剧记录与分级管理应用。
-
----
-
-<p align="center">Go / Rust · Linux · Reliable Systems</p>
